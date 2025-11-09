@@ -1,1 +1,1 @@
-console.log ('index1.3')
+console.log ('indexclone')
